@@ -2,4 +2,4 @@
 https://bhusalravi.com.np
 
 ###Subscribe to my newsletter at:
-newsletter.bhusalravi.com.np
+https://newsletter.bhusalravi.com.np
