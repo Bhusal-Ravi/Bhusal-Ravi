@@ -1,5 +1,7 @@
 ### Ravi Bhusal
 https://bhusalravi.com.np
+### Portfolio Status
+![Backend Status](https://img.shields.io/endpoint?url=https%3A%2F%2Fbhusalravi.com.np%2Fhealth%3Fformat%3Dbadge)
 
 ### Subscribe to my newsletter at:
 https://newsletter.bhusalravi.com.np 
