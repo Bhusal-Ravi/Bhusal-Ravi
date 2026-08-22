@@ -1,5 +1,6 @@
-### Ravi Bhusal
-https://bhusalravi.com.np
+# Ravi Bhusal
+### Portfolio:  https://bhusalravi.com.np
+### NewsLetter: https://newsletter.bhusalravi.com.np
 
 <table>
   <tr>
